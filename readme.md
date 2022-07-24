@@ -14,7 +14,7 @@ This bot reads a JSON file and checks to see if the user input's word is in the 
       </p>
 <p align="center" width="100%">
       <img
-      src="https://imageserver.jtagaca.live/ai_python_chat2.png"
+      src="https://imageserver.jtagaca.live/ai_python_chat2.gif.png"
       height=540px width=1080px
 
 />
