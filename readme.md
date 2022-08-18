@@ -4,7 +4,7 @@ AI chat is a python based bot that allows you to easily create your own bot by c
 
 ## Context
 
-This bot reads a JSON file and checks to see if the user input's word is in the JSON file, and if it is, it returns a predefined response. This simple bot can be used to create your own. Additionally, this demonstrates my proficiency in Python and how a simple program can save manual labor, particularly in customer service roles.
+This bot reads a JSON file and checks to see if the user input's word is in the JSON file, and if it is, it returns a predefined response. This simple bot can be used to create your own. Additionally, this shows how a simple program can save manual labor, particularly in customer service roles.
 
 <p align="center" width="100%">
 <img
