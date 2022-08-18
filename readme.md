@@ -9,7 +9,7 @@ This bot reads a JSON file and checks to see if the user input's word is in the 
 <p align="center" width="100%">
 <img
       src="https://imageserver.jtagaca.live/ai_python_chat1.gif"
-      height=540px width=870px
+      height=540px 
    />
       </p>
 <p align="center" width="100%">
